@@ -1,7 +1,8 @@
 # RIP - The console Game
 My old console game, compiled for Windows OS.
 
-### Important note: The game is made mostly with batch files and an overlay made with C#. The game shouldn't hurt the device but keep in mind you are using it on your own risk. **It is not a malware** but it bugs audio sometimes.
+### Important note: 
+The game is made mostly with batch files and an overlay made with C#. The game shouldn't hurt the device but keep in mind you are using it on your own risk. **It is not a malware** but it bugs audio sometimes.
 
 The game is not intended to offend anyone. The R.I.P is an expression of my own artistic feelings.
 
